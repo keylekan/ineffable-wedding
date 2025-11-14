@@ -5,7 +5,7 @@ This is the website I made for my wedding, including Google Maps integration and
 ## Installation
 
  - Clone this project and run `npm install`
- - Copy `src/.env.dist` into `src/.env` and fill the variables
+ - Copy `src/.env.example` into `src/.env` and fill the variables
  - Feel free to customize the site content for your own event ;)
 
 ## Usage
